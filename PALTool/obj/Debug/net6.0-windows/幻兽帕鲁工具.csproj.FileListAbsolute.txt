@@ -1,0 +1,17 @@
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\bin\Debug\net6.0-windows\幻兽帕鲁工具.exe
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\bin\Debug\net6.0-windows\幻兽帕鲁工具.deps.json
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\bin\Debug\net6.0-windows\幻兽帕鲁工具.runtimeconfig.json
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\bin\Debug\net6.0-windows\幻兽帕鲁工具.dll
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\bin\Debug\net6.0-windows\幻兽帕鲁工具.pdb
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.csproj.AssemblyReference.cache
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.Form1.resources
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.csproj.GenerateResource.cache
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.GeneratedMSBuildEditorConfig.editorconfig
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.AssemblyInfoInputs.cache
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.AssemblyInfo.cs
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.csproj.CoreCompileInputs.cache
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.dll
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\refint\幻兽帕鲁工具.dll
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.pdb
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\幻兽帕鲁工具.genruntimeconfig.cache
+M:\demo\c#_demo\vs2019\PALWorldTool\幻兽帕鲁工具\obj\Debug\net6.0-windows\ref\幻兽帕鲁工具.dll
